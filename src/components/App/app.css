@@ -1,0 +1,36 @@
+html{
+  font-size: 10px;
+}
+body {
+  background-color: #f8f8f8 !important;
+}
+#app{
+  height: 100%;
+}
+.layout-title{
+  color: #fff;
+  text-align: center;
+  padding: 10px 15px 30px;
+  font-size: 14px;
+}
+.layout-logo {
+  height: 80px;
+}
+.layout-title-text {
+  font-size: 20px;
+}
+.breadcrumb-wrapper{
+  padding-bottom: 15px;
+}
+.ant-modal-body{
+  max-height: 500px;
+  overflow-y: scroll;
+}
+.layout-contentbox{
+  margin-left: 210px;
+  overflow-y: scroll;
+  padding: 20px;
+  height: calc(100% - 44px);
+}
+/*reset bootstrap's style*/
+label{display: inline-block;}

@@ -1,0 +1,11 @@
+.layout-menu-user{
+  padding: 5px 10px 5px 0;
+  cursor: pointer;
+}
+.layout-menu-user img.avatar{
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  margin:0 5px;
+  vertical-align: middle;
+}

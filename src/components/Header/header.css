@@ -1,0 +1,11 @@
+.layout-header{
+  margin-left: 210px;
+  height: 44px;
+  border-bottom: 1px solid rgb(240, 240, 240);
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  background-color: #fff;
+}
+

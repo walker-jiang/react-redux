@@ -1,0 +1,38 @@
+.layout-sidebar{
+  position: absolute;
+  height: 100%;
+  left: 0;
+  top: 0;
+  background-color: #263c4e;
+}
+.ant-menu-dark-blue{
+  background: rgb(38, 60, 78);
+  color: #fff;
+}
+.ant-menu-dark-blue .ant-menu-inline.ant-menu-sub{
+  background: rgb(34, 52, 68);
+}
+.ant-menu-dark-blue .ant-menu-item > a{
+  color:inherit;
+}
+.ant-menu-dark-blue .ant-menu-item-group-title,
+.ant-menu-dark-blue .ant-menu-inline.ant-menu-sub,
+.ant-menu-dark-blue .ant-menu-item-group{
+  color: #fff;
+}
+.ant-menu-item > a:hover{
+  color: #fff !important;
+}
+.ant-menu-submenu, .ant-menu-dark-blue .ant-menu-submenu-title{
+  color: #fff;
+  background: rgb(34, 52, 68) !important;
+}
+.ant-menu-dark-blue .ant-menu-item:hover{
+  background: rgb(0, 182, 232);
+}
+.ant-menu-dark-blue .ant-menu-item-selected,
+.ant-menu-dark-blue .ant-menu-inline .ant-menu-selected,
+.ant-menu-dark-blue .ant-menu-inline .ant-menu-item-selected{
+  background: rgb(0, 182, 232);
+  color: #fff;
+}
